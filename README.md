@@ -74,4 +74,4 @@ This project aims to elevate a simple classic game into a "Top 0.1%" modern web 
 - **Purposeful Animation**: Spring-based scaling on marks to give them weight, and gentle background blur/pulse to maintain a living aesthetic.
 
 ---
-*Created in Google AI Studio.*
+
